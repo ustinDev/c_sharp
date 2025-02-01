@@ -1,0 +1,15 @@
+/home/cls/c_sharp/freecodecampPract/bin/Debug/net8.0/freecodecampPract
+/home/cls/c_sharp/freecodecampPract/bin/Debug/net8.0/freecodecampPract.deps.json
+/home/cls/c_sharp/freecodecampPract/bin/Debug/net8.0/freecodecampPract.runtimeconfig.json
+/home/cls/c_sharp/freecodecampPract/bin/Debug/net8.0/freecodecampPract.dll
+/home/cls/c_sharp/freecodecampPract/bin/Debug/net8.0/freecodecampPract.pdb
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/freecodecampPract.GeneratedMSBuildEditorConfig.editorconfig
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/freecodecampPract.AssemblyInfoInputs.cache
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/freecodecampPract.AssemblyInfo.cs
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/freecodecampPract.csproj.CoreCompileInputs.cache
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/freecodecampPract.sourcelink.json
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/freecodecampPract.dll
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/refint/freecodecampPract.dll
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/freecodecampPract.pdb
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/freecodecampPract.genruntimeconfig.cache
+/home/cls/c_sharp/freecodecampPract/obj/Debug/net8.0/ref/freecodecampPract.dll
